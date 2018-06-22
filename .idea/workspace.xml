@@ -5,6 +5,7 @@
     <list default="true" id="298c75b1-7a87-48d2-b26e-5064634f1a99" name="Default" comment="" />
 =======
     <list default="true" id="298c75b1-7a87-48d2-b26e-5064634f1a99" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
 >>>>>>> 4f82f6dd2f38afcfcb2afb4352dd0f5178f6a351
@@ -17,9 +18,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
             <state relative-caret-position="90">
               <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
@@ -27,6 +29,19 @@
             <state relative-caret-position="135">
               <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
 >>>>>>> 4f82f6dd2f38afcfcb2afb4352dd0f5178f6a351
+=======
+            <state relative-caret-position="150">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robotos.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/robotos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+>>>>>>> e304bbb54c597cfe029fdc1e1bd841528f511df0
             </state>
           </provider>
         </entry>
@@ -48,6 +63,7 @@
       <list>
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/robotos.html" />
       </list>
     </option>
   </component>
@@ -126,19 +142,23 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="3017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="86" y="23" width="1110" height="821" extended-state="0" />
 =======
     <option name="totallyTimeSpent" value="189000" />
+=======
+    <option name="totallyTimeSpent" value="328000" />
+>>>>>>> e304bbb54c597cfe029fdc1e1bd841528f511df0
   </component>
   <component name="ToolWindowManager">
-    <frame x="210" y="37" width="1110" height="790" extended-state="0" />
+    <frame x="0" y="23" width="1250" height="821" extended-state="0" />
     <editor active="true" />
 >>>>>>> 4f82f6dd2f38afcfcb2afb4352dd0f5178f6a351
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21629213" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19122517" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -147,6 +167,7 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+<<<<<<< HEAD
 <<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.4088398" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -164,25 +185,46 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Favorites" order="2" side_tool="true" />
+=======
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.4088398" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+>>>>>>> e304bbb54c597cfe029fdc1e1bd841528f511df0
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21629213" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32900432" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+=======
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+>>>>>>> e304bbb54c597cfe029fdc1e1bd841528f511df0
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
 =======
       <window_info anchor="bottom" id="TODO" order="6" />
 >>>>>>> 4f82f6dd2f38afcfcb2afb4352dd0f5178f6a351
+=======
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+>>>>>>> e304bbb54c597cfe029fdc1e1bd841528f511df0
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +273,42 @@
         <state relative-caret-position="135">
           <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
 >>>>>>> 4f82f6dd2f38afcfcb2afb4352dd0f5178f6a351
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robotos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
